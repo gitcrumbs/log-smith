@@ -2,6 +2,14 @@
 
 logSynth is a package for generating synthetic log data with different log levels and custom templates.
 
+## Installation
+
+You can install the package using npm:
+
+```sh
+npm install logsynth
+```
+
 ## Usage
 
 You can generate synthetic logs using the functions provided in the package.
