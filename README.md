@@ -1,14 +1,10 @@
-# Logsmith
-
+ogsmith
 Logsmith is a package for generating synthetic log data with different log levels and custom templates.
 
-## Usage
-
+Usage
 You can generate synthetic logs using the functions provided in the package.
 
-### Example
-
-```javascript
+Example
 import { generateLogsByInterval, generateGenericLog } from './src/logGenerator.mjs';
 
 // Example usage of generating logs by interval
