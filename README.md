@@ -7,7 +7,7 @@ logSynth is a package for generating synthetic log data with different log level
 You can install the package using npm:
 
 ```sh
-npm install logsynth
+npm i log-synth
 ```
 
 ## Usage
