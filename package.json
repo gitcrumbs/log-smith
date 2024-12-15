@@ -1,0 +1,13 @@
+{
+  "name": "logsmith",
+  "version": "1.0.0",
+  "description": "A package for generating synthetic log data",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs"
+  },
+  "author": "Ashwani Singh",
+  "license": "MIT"
+}
