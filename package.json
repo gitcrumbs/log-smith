@@ -1,5 +1,5 @@
 {
-  "name": "log-synth",
+  "name": "logsynth",
   "version": "1.0.0",
   "description": "A package for generating synthetic log data",
   "main": "index.mjs",
