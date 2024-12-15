@@ -80,7 +80,7 @@ function generateRandomLog() {
     .replace('{processId}', processId)
     .replace('{taskName}', taskName);
 
-  return `LogSmith : ===> [${level}] ${logMessage}`;
+  return `logSynth : ===> [${level}] ${logMessage}`;
 }
 
 // Function to generate logs based on a time interval in seconds
