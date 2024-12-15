@@ -1,6 +1,5 @@
 import os from 'os';
 
-// Log data templates with log levels
 const logData = [
   { level: 'INFO', message: 'User {user} successfully logged in from IP {ip} at {timestamp}.' },
   { level: 'ERROR', message: 'Error: Request {requestId} failed due to a server-side timeout at {timestamp}.' },
