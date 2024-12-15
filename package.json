@@ -1,5 +1,5 @@
 {
-  "name": "log-Synth",
+  "name": "logsynth",
   "version": "1.0.0",
   "description": "A package for generating synthetic log data",
   "main": "index.mjs",
@@ -10,8 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gitcrumbs/log-smith.git"
+    "url": "git+https://github.com/gitcrumbs/logSynth.git"
   },
   "author": "Ashwani Singh",
-  "license": "MIT"  
+  "license": "MIT",
+  "devDependencies": {},
+  "keywords": [
+    "Generate",
+    "Different",
+    "Log",
+    "levels"
+  ],
+  "bugs": {
+    "url": "https://github.com/gitcrumbs/logSynth/issues"
+  },
+  "homepage": "https://github.com/gitcrumbs/logSynth#readme"
 }
